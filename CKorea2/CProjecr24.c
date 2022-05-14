@@ -10,7 +10,7 @@
 //		return var-100;
 //}
 
-int Sum2(int var1, int var2) {
+int Sum2(int var1, int var2) {     //내가 만드는 함수 이름은 다른 파일 이더라도 이름이 겹치면 안됨.
 	
 	return var1 + var2;
 }
